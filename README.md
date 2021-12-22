@@ -1,5 +1,5 @@
 # ![test](smartaleckblog.png)
-# Maharaja
+# The Smart-Aleck Blog
 <table>
 <tr>
 <td>
