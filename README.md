@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-A micro blog site I created 
+A ReactJS micro blog I'm developing to chart my coding journey, as well as inspire and guide new developers with handy coding tips, tricks and resources.  
 </td>
 </tr>
 </table>
